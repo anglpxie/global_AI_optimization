@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Wine Classification with Genetic Algorithm with Elitism - Course Global Optimization in AI UNITS
 
 ### Executive summary
@@ -182,15 +181,3 @@ These chemical properties proved most discriminative for wine cultivar classific
 ## Conclusion
 
 This Genetic Algorithm with Elitism successfully demonstrates the effectiveness of evolutionary computation for automated hyperparameter optimization in machine learning. The algorithm achieved exceptional performance (97.22% test accuracy) while maintaining healthy population dynamics and avoiding common pitfalls like premature convergence.
-
-**Key Success Factors:**
-- **Parameter-specific strategies:** Different crossover/mutation approaches for continuous vs. discrete parameters
-- **Balanced selection pressure:** Tournament selection with elitism preservation
-- **Comprehensive evaluation:** 5-fold CV with multiple performance metrics
-- **Diversity maintenance:** Ongoing monitoring and healthy exploration-exploitation balance
-
-The project showcases how evolutionary algorithms can effectively navigate complex hyperparameter spaces to discover high-performing neural network configurations for real-world classification tasks.
-=======
-# anglpxie-global_AI_optimization
-Exam project for Global Optmization in AI 
->>>>>>> 366b644abec149ac0ae62064f201698581e74994
