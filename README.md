@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Wine Classification with Genetic Algorithm with Elitism - Course Global Optimization in AI UNITS
 
 ### Executive summary
@@ -189,3 +190,7 @@ This Genetic Algorithm with Elitism successfully demonstrates the effectiveness 
 - **Diversity maintenance:** Ongoing monitoring and healthy exploration-exploitation balance
 
 The project showcases how evolutionary algorithms can effectively navigate complex hyperparameter spaces to discover high-performing neural network configurations for real-world classification tasks.
+=======
+# anglpxie-global_AI_optimization
+Exam project for Global Optmization in AI 
+>>>>>>> 366b644abec149ac0ae62064f201698581e74994
