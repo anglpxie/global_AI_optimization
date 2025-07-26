@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Wine Classification with Genetic Algorithm with Elitism - Course Global Optimization in AI UNITS
 
 ### Executive summary
